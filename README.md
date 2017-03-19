@@ -13,7 +13,7 @@ However, with optimised calculations, the time-memory requirements can be contro
 
 ## Matrix Multiplications
 - Make BOW matrix and use matrix multiplication to find the similarity matrix
-- BOW matrix is sparse matrix. However, similarity matrix is dense matrix and requires memory to reside.
+- BOW matrix is sparse matrix. However, similarity matrix is dense matrix and requires memory to reside. 
 - Exact calculations
 - Very good for ~100K documents as it give exact calculations on a decent hardware.
 
